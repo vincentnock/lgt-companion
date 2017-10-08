@@ -1,4 +1,4 @@
-package com.vincentnock.lgt_companion;
+package com.vincentnock.lgtcompanion;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

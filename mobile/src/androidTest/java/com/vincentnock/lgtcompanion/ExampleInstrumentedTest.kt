@@ -1,4 +1,4 @@
-package com.vincentnock.lgt_companion
+package com.vincentnock.lgtcompanion
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4

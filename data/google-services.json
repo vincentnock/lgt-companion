@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "798775270258",
+    "firebase_url": "https://lgt-companion-421e3.firebaseio.com",
+    "project_id": "lgt-companion-421e3",
+    "storage_bucket": "lgt-companion-421e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798775270258:android:7e1764380f249391",
+        "android_client_info": {
+          "package_name": "com.vincentnock.lgtcompanion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798775270258-7i95asu6o5b3s37r8o7esrsputsvbtvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUZcas0nELLNcMgzEvpTZ7wPiERhSk1qM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.vincentnock.lgt_companion">
+    package="com.vincentnock.lgtcompanion">
 
     <application
         android:allowBackup="true"

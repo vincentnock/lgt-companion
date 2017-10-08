@@ -1,4 +1,4 @@
-package com.vincentnock.lgt_companion
+package com.vincentnock.lgtcompanion
 
 import org.junit.Test
 
